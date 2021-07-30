@@ -1,2 +1,1 @@
-ini adalah branch development
-mencoba membuat conflict
+ini adalah branch development mencoba membuat conflict
