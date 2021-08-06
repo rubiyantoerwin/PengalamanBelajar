@@ -2,4 +2,4 @@ ini adalah branch main mencoba membuat conflict
 
 hello world
 
-mencoba squash and merge
+hari ini hari jum'at, 6 agustus 2021
