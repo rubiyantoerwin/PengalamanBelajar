@@ -4,4 +4,4 @@ hello world
 
 hari ini hari jum'at, 6 agustus 2021
 
-hallo, saya mencoba code review pada diri sendiri
+saya mencoba code review pada diri sendiri
